@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "functions": {
+    "api/identify.js": {
+      "maxDuration": 30
+    }
+  }
+}
